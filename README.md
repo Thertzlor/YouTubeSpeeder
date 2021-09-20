@@ -18,7 +18,7 @@ The script provides the following additional shortcuts:
 
 ## Installing 
 This userscript is tested with TamperMonkey.
-Install it from [GreasyFork]() or copy the contents of  `yt-speed.js` into TamperMonkey yourself.
+Install it from [GreasyFork](https://greasyfork.org/en/scripts/432706-youtube-speeder) or copy the contents of  `yt-speed.js` into TamperMonkey yourself.
 
 ## Bugs
 * If the playback rate has been set via the script, selecting "Normal" from the playback speed menu will **not** reset the rate back to 1.
