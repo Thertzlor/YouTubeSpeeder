@@ -23,3 +23,16 @@ Install it from [GreasyFork](https://greasyfork.org/en/scripts/432706-youtube-sp
 ## Bugs
 * If the playback rate has been set via the script, selecting "Normal" from the playback speed menu will **not** reset the rate back to 1.
 * Setting the playback speed via the "Custom" option while the speed is modified by the script does nothing.
+
+
+
+
+
+kokfokgjgijfifgjgijirgijgijgijijigigjirjigjirjgijijgijrgjirjgirgijididjjfjidjfgidjj
+
+
+
+
+
+
+glprgkorekogkeorkgokrokokgodf
